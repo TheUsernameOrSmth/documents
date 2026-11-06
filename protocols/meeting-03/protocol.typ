@@ -103,7 +103,7 @@ Marknadsförde init/ctf till nØllan.
 
 \
 
-Held the commit (hackaton). Attendance was low.
+Held commit (hackathon). Attendance was low.
 
 Worked on Heim with Philip.
 
@@ -144,7 +144,7 @@ Våra stadgar är svårtydliga och inkluderar kriterier för pull request som vi
 
 Tekniskt sett är aktiva medlemmar inte definierade i nuvarande stadgar.
 
-Motionen fick bifall. (1/2)
+Motionen fick bifall (1/2)
 #v(12pt)
 
 #link("https://github.com/Fripe070/documents/commit/eed192e2cfa9f90eafdd4f468639acd9bf222bce")[
@@ -178,7 +178,7 @@ Motionen fick bifall (1/2) med följande ändringar:
 ```diff
 - En pull request får sammankallas med kortare varsel, men då skall Bootloader eller Kernel ha tagit personlig kontakt med samtliga av *inits* medlemmar för att meddela mötets tidpunkt.
 - Med personlig kontakt avses varken e-post, meddelande på telefonsvarare eller liknande, och ej heller brev eller fax.
-+ En pull request får sammankallas med kortare varsel, men då skall Bootloader eller Kernel ha tydligt informerat samtliga av The Mainframe about the meeting. Samtliga av *inits* medlemmar bör också informeras.
++ En pull request får sammankallas med kortare varsel, men då skall Bootloader eller Kernel ha tydligt informerat samtliga av The Mainframe om mötet. Samtliga av *inits* medlemmar bör också informeras.
 ```
 och
 ```diff
@@ -199,7 +199,7 @@ The motion was accepted (1/2) with the following changes:
 ```diff
 - En pull request får sammankallas med kortare varsel, men då skall Bootloader eller Kernel ha tagit personlig kontakt med samtliga av *inits* medlemmar för att meddela mötets tidpunkt.
 - Med personlig kontakt avses varken e-post, meddelande på telefonsvarare eller liknande, och ej heller brev eller fax.
-+ En pull request får sammankallas med kortare varsel, men då skall Bootloader eller Kernel ha tydligt informerat samtliga av The Mainframe about the meeting. Samtliga av *inits* medlemmar bör också informeras.
++ En pull request får sammankallas med kortare varsel, men då skall Bootloader eller Kernel ha tydligt informerat samtliga av The Mainframe om mötet. Samtliga av *inits* medlemmar bör också informeras.
 ```
 and
 ```diff
@@ -295,7 +295,7 @@ To summarize the discussion:
 
 It needs more people in the website thread.
 
-== Cant legally change our statues <status_legal_change>
+== Can't legally change our statutes <status_legal_change>
 
 Ärendet bordlades
 #v(12pt)
@@ -329,7 +329,7 @@ Hoppade hit från @git_lecture
 
 [Redaktörens anmärkning: Innehållet i denna diskussion verkar ha gått förlorat. Texten nedan är i stället en sammanfattning baserad på minnet.]
 
-Att discord rollen *init* finns skapar en känsla av gatekeeping. Även om alla är välkomna att hjälpa till känner sig de flesta inte välkomna att bidra eftersom de inte är "init".
+Att Discord rollen *init* finns skapar en känsla av gatekeeping. Även om alla är välkomna att hjälpa till känner sig de flesta inte välkomna att bidra eftersom de inte är "init".
 
 Vi bör ha ett system liknande Glenn/Nat/Prao, med det föreslagna namnet "Interns", som vem som helst kan bli. Interns skulle inte ha några ansvarsområden men uppmuntras att hjälpa till.
 
@@ -341,9 +341,9 @@ Jumped here from @git_lecture
 
 [Editor note: The contents of this discussion appear to have been lost. The text below is instead a summary based on memory.]
 
-The existence of the *init* discord role ends up creating a feeling of gatekeeping. While we welcome anyone to help, most do not feel welcome to contribute since they aren't "init".
+The existence of the *init* Discord role ends up creating a feeling of gatekeeping. While we welcome anyone to help, most do not feel welcome to contribute since they aren't "init."
 
-We should have a system similar to Glenn/Nat/Prao, suggested name "Interns", which anyone can become. Interns would have no responsibilities but are encouraged to help out.
+We should have a system similar to Glenn/Nat/Prao, suggested name "Interns," which anyone can become. Interns would have no responsibilities but are encouraged to help out.
 
 We could also have a member/marshal level where, when you are active enough, you are given the responsibility to help onboard interns.
 
@@ -397,13 +397,13 @@ CTF:en kan vara svår för de som är supernya, men de med förkunskap gillar de
 
 Det kan vara en ojämn svårighetskurva, eftersom att de med erfarenhet kan tycka att det är för lätt i början. Man skulle kunna ha en referens-/hintsida med informationen för vad man behöver kunna så de nya ska kunna.
 
-Intern kände progress när han gjorde första. De som snackade med The Mainframe om att det var för lätta är de som antagligen redan skulle gå med.
+Intern kände progress när han gjorde första. De som snackade med The Mainframe om att det var för lätt är de som antagligen redan skulle gå med.
 
 Vi kan ha en patch för att klara CTF:en. Det kanske inte är idealiskt eftersom folk kommer att dela flaggorna med varandra. Claude kan one-shota hela CTF:en.
 
 Hard mode borde vara lättare att hitta.
 #v(12pt)
-The CTF was "phenomenal". A good number of people played it and a lot of them loved it.
+The CTF was "phenomenal." A good number of people played it and a lot of them loved it.
 
 Playtesting things more would be very beneficial.
 
@@ -457,12 +457,13 @@ There may be too few people interested in running events.
 
 Vi kan ordna Programming mys ungefär när som helst. En ITK-senator är väldigt sugen på att samarbeta kring det.
 #v(12pt)
-We can make Programming mys sort of whenever. An ITK Senator is very down for collaborating on it.
+We can hold a Programming mys sort of whenever. An ITK Senator is very down for collaborating on it.
 
 = Slutformalia
 
 == Nästa Pull Request
-
+Kistan är bokad superlänge. 27:e?
+#v(12pt)
 Kistan booked for so long. 27th?
 
 == Pull Requestens avslutande
